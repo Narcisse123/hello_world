@@ -17,7 +17,7 @@ new_dataset = np.concatenate((new_column, new_dataset), axis=1)
 np.random.shuffle(new_dataset)
 
 X = new_dataset[:, 0]
-Y = new_dataset[:, 2]
+Y = new_dataset[:, 3]
 
 training_size = int(0.7*len(X))
 training_set = X[:training_size].reshape(training_size, 1)
