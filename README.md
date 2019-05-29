@@ -1,4 +1,3 @@
-# hello_world
-just another repository
-Hi;
-I'm Narges, Just strated my first Github account and writing and saving codes.
+# SVR
+repository for founderies demand forecasting using svr
+saving codes.
